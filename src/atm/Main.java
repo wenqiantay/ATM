@@ -8,7 +8,7 @@ public class Main {
         ATM dbsATM = new ATM(myAcc);
 
         Console cons = System.console();
-        System.out.println("Welcome to old.ATM");
+        System.out.println("Welcome to ATM");
         boolean programIsRunning = true;
 
         while(programIsRunning) {
